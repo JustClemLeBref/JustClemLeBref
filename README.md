@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustClemLeBref
-- 👀 I’m a treasur hunter, I like rare things such as good grades...
+- 👀 I’m a treasur hunter, I hunt rare things such as good grades...
 - 🌱 I’m currently learning how to breath
 - 💞️ I’m looking to collaborate with myself
 - 📫 How to reach me : you can't, i'm untouchable
@@ -31,6 +31,7 @@ Texte en gras = possible changement plus tard
 
 PROJET 2 « MINI JEU »
 Un regroupement de jeu rassembalant des jeux de voitures (course), de flipper, de bowling, 8 ball, et d’autres mini jeu 
+en 2D et 3D
 
 EN COURS DE REFLEXION
  

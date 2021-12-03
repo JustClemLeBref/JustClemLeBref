@@ -27,7 +27,7 @@ Les touches seraient : Flèche droite, flèche gauche (avancer reculer), Flèche
 
 
 
-Texte en gras = possible changement plus tard
+
 
 PROJET 2 « MINI JEU »
 Un regroupement de jeu rassembalant des jeux de voitures (course), de flipper, de bowling, 8 ball, et d’autres mini jeu 
